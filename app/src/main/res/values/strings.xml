@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotePal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <array name="addoptions">
+        <item>Notes</item>
+        <item>Quick Notes</item>
+        <item>To-Do List</item>
+    </array>
+    <string name="navtop">My Notepal- Where evrything is being noted !</string>
+    <string name="title_activity_quicknote">Quicknote</string>
+    <string name="spinner_title">Select type of Note:</string>
+    <string name="title_activity_quick_note">Add Note</string>
+    <string name="title_activity_note">Add Quick Note</string>
+    <string name="save_note">Save</string>
+    <string name="btn_note">SAVE</string>
+    <string name="title_activity_todo">Add To-Do List</string>
+    <string name="btn_save2">SAVE</string>
+    <string name="note_header">Header (Optional)</string>
+    <string name="note_body">Write your note here...</string>
+</resources>
